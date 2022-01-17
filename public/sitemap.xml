@@ -44,17 +44,11 @@
     <loc>https://maxbwilson.netlify.app/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maxbwilson.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2021-12-27T20:29:42-06:00</lastmod>
-  </url><url>
-    <loc>https://maxbwilson.netlify.app/post/</loc>
-    <lastmod>2021-12-27T20:29:42-06:00</lastmod>
-  </url><url>
     <loc>https://maxbwilson.netlify.app/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -63,7 +57,7 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -75,10 +69,7 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maxbwilson.netlify.app/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -119,15 +110,6 @@
     <loc>https://maxbwilson.netlify.app/project/skin-cancer-ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maxbwilson.netlify.app/post/snail/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maxbwilson.netlify.app/tags/academia/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maxbwilson.netlify.app/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://maxbwilson.netlify.app/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -144,5 +126,7 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://maxbwilson.netlify.app/post/</loc>
   </url>
 </urlset>

@@ -31,10 +31,9 @@ date_format = "Jan 2006"
   organization = "Vermont Captive Insurance Association"
   organization_url = "https://www.edx.org"
   title = "Vermont's Captive Conference"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Attended a Captive Insurance Conference, where I learned about the regulatory environment that encompasses this industry.."
   
 [[item]]
   organization = "Endownment Fund"
@@ -43,7 +42,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2019-07-01"
   date_end = "2021-05-01"
-  description = "Schilarship for following Actuarial Science career and completing the preliminary exams."
+  description = "Scholarship for following the Actuarial Science path and completing the preliminary exams."
   
 [[item]]
   organization = "Calhoun Excalibur Foundation Scholarship"

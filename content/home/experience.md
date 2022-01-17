@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
-subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+title = "Work Experience"
+#subtitle = "Previous Jobs"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -22,15 +22,9 @@ date_format = "Jan 2006"
   company = "Management Solutions"
   company_url = ""
   location = "Alabama"
-  date_start = "2020-06-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  date_start = "2021-06-01"
+  date_end = "2022-01-21"
+  description = """-Worked in the back office of a bank, managing short term risks. Much of my worked dealt with daily operations and managing risk. """
 
 [[experience]]
   title = "ProAssurance"
@@ -39,7 +33,11 @@ date_format = "Jan 2006"
   location = "Alabama"
   date_start = "2019-05-01"
   date_end = "2019-12-15"
-  description = """Recieved a strong introductio to the Actuarial field."""
+  description = """
+  
+  -Recieved a strong introduction to the Actuarial field.
+  
+  -Performed a Severity analysis on a variety of states, and then was given the opportunity to perform a ratefiling."""
 
 [[experience]]
   title = "Inventory Intern"
@@ -48,6 +46,6 @@ date_format = "Jan 2006"
   location = "Alabama"
   date_start = "2017-05-01"
   date_end = "2017-08-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """-Took inventory of essential invetory and then used a system known as costpoint to pinpoint average costs"""
   
 +++

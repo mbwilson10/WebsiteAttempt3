@@ -24,7 +24,7 @@ subtitle = "Personal/Technical"
   icon = "angry"
   icon_pack = "fas"
   name = "Hardworking"
-  parcent = "110%"  
+  parcent = "100%"  
   
 [[feature]]
   icon = "chart-pie"
@@ -36,6 +36,6 @@ subtitle = "Personal/Technical"
   icon = "searchengin"
   icon_pack = "fab"
   name = "Curious"
-  parcent = "95%"
+  parcent = "100%"
 
 +++

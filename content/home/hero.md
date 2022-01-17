@@ -37,11 +37,11 @@ hero_media = "user-full-2.jpg"
   url = "/authors/admin"
   label = "Know more"
   
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
+#[btn_alt]
+# url = "#contact"
+#label = "Contact me"
 
 +++
-## My name is **Max Wilson** and I'm a **Consultant** specializing in **Market Risk**
+## My name is **Max Wilson** and I'm a **Actuarial Analyst** for **SVMIC**
 
 This site is meant to be a channel where I can give my professional opinion in a variety of financial topics revolving around risk and valuation. I also hope to express not only my professional expertise, but also to post about future goals and hobbies.

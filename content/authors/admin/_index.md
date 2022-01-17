@@ -14,11 +14,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Junior Consultant
+role: Actuarial Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Management Solutions
+- name: SVMIC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,15 +52,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: http://www.linkedin.com/in/maxwellwilson10/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -77,8 +77,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Junior Consultant at Management Solutions working with managing short term risks. In an academic setting I have a Masters in finance with a minor Actuarial Sciences. I have currently completed FM, IFM and P.
+I am currently entering the Insurance industry as an Entry Level Actuary. In an academic setting I have a Masters in finance with a minor Actuarial Sciences. I have currently completed FM, IFM and P.
 
 ![reviews](../../img/OIP.jpg)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+When I am not working in the office, I am often walking my dog, brewing beer, or drinking massive amounts of coffee. 
