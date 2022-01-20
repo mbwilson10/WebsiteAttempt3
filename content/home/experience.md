@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   location = "Alabama"
   date_start = "2017-05-01"
   date_end = "2017-08-01"
-  description = """-Took inventory of essential invetory and then used a system known as costpoint to pinpoint average costs"""
+  description = """-Took inventory of essential inventory and then used a system known as costpoint to pinpoint average costs"""
   
 +++
