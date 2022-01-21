@@ -81,4 +81,5 @@ I am currently entering the Insurance industry as an Entry Level Actuary. In an 
 
 ![reviews](../../img/OIP.jpg)
 
+
 When I am not working in the office, I am often walking my dog, brewing beer, or drinking massive amounts of coffee. 

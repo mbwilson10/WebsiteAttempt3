@@ -25,3 +25,5 @@ The "Bible of Value Investing" written by Benjaman Graham:
 
 ## Introduction
 
+![reviews](../../img/OIP.jpg)
+
