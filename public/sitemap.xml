@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maxbwilson.netlify.app/courses/example/_example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://maxbwilson.netlify.app/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,14 +23,14 @@
     <loc>https://maxbwilson.netlify.app/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maxbwilson.netlify.app/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://maxbwilson.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maxbwilson.netlify.app/courses/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maxbwilson.netlify.app/project/artificial-intelligence/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -75,11 +72,9 @@
   </url><url>
     <loc>https://maxbwilson.netlify.app/courses/example.1/example4/</loc>
   </url><url>
-    <loc>https://maxbwilson.netlify.app/courses/example/example4-copy-3/</loc>
-  </url><url>
-    <loc>https://maxbwilson.netlify.app/courses/example/example4-copy/</loc>
-  </url><url>
     <loc>https://maxbwilson.netlify.app/courses/example/example4/</loc>
+  </url><url>
+    <loc>https://maxbwilson.netlify.app/courses/example/example5/</loc>
   </url><url>
     <loc>https://maxbwilson.netlify.app/authors/</loc>
   </url><url>
