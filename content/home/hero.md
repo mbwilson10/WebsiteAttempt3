@@ -42,6 +42,6 @@ hero_media = "user-full-2.jpg"
 #label = "Contact me"
 
 +++
-## My name is **Max Wilson** and I'm a **Actuarial Analyst** for **SVMIC**
+## My name is **Max Wilson**, and I'm an **Actuarial Analyst** for **SVMIC** in Nashville, TN
 
-This site is meant to be a channel where I can give my professional opinion in a variety of financial topics revolving around risk and valuation. I also hope to express not only my professional expertise, but also to post about future goals and hobbies.
+This site is meant to be a channel where I can give my professional opinion in a variety of financial topics revolving around risk and valuation. I hope to express not only my professional expertise, but also to post about future goals and hobbies.

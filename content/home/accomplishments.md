@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = "Scholarship to attend national NAHU conference in DC where I got to the opportunity to meet Alabama's congress men and women to lobby o behalf of healthcare agents."
+  description = "Scholarship to attend national NAHU conference in DC where I met Alabama's congress men and women to lobby on behalf of healthcare agents."
 
 [[item]]
   organization = "Vermont Captive Insurance Association"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   title = "Vermont's Captive Conference"
   date_start = "2018-03-01"
   date_end = ""
-  description = "Attended a Captive Insurance Conference, where I learned about the regulatory environment that encompasses this industry.."
+  description = "Attended a Captive Insurance Conference where I learned about the regulatory environment that encompasses the industry."
   
 [[item]]
   organization = "Endownment Fund"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2019-07-01"
   date_end = "2021-05-01"
-  description = "Scholarship for following the Actuarial Science path and completing the preliminary exams."
+  description = "Scholarship for following the Actuarial Science path and completing preliminary actuarial exams."
   
 [[item]]
   organization = "Calhoun Excalibur Foundation Scholarship"

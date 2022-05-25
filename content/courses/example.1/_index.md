@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Warren Buffet and the Interpretation of Financial Statements
-summary: Strong introduction into accounting and gives a brief but impactful insight on Warrens investing strategy. 
+summary: Strong introduction into accounting and gives a brief but impactful insight on Warrens investing strategy.
 weight: 2
 
 # Page metadata.
@@ -22,42 +22,35 @@ menu:
   
 ---
 
-## Flexibility
+Interpretation of Financial Statements
 
-This feature can be used for publishing content such as:
+The beginning of the book serves as a useful introduction into financial statements and a perfect review for those who learned financial theory over true application. I have decided for the purposes of this book, to summarize key points. I hope by doing this, one will get a better understanding of the common financial statements. 
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+Graham vs Buffet:
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+While these two individuals have a greatly linked philosophy of investing, their methods were slightly different. While Graham laid the foundation of fundamental analysis, he did not realize that companies with certain competitive advantages can have long-term success. Unlike Warren, Graham never held equity over two years, and was focused on buying extremely undervalued stocks, rather than companies with any strong future potential.This is where Warren Buffet was able to capitalize and expound on Graham’s fundamentals. 
 
-## Delete tutorials
+Three Major Financial Statements:
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+Income Statement, Balance sheet, and the Statement of Cash Flows
 
-## Update site menu
+Income Statement Tips: When looking at a potential investment, one must look at the income statement. Within the income statement, the investor can get a sense of a company's profitability. Some important ratios that the book goes over are:
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+	Gross Profit Margin: (Revenue - COGS)/Revenue
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+Note: A lower Gross Profit Margin usually indicates a larger competitive market. While its dependent on the industry, a competitive advantage can be seen when the gross profit margin is around 40%.
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+SG&A expenses: This expense consists mostly of wages, marketing or other administrative expenses. These expenses usually remain constant over the years. Thus, given years of bad revenue, SG&A expenses can really put a toll on the balance sheet. 
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
+	
+Research and Development Costs: Companies with high R&Ds often rely on some sort of technological advantage in order to keep their competitive advantage. This can be an issue, if a company fails to achieve their patent/technological goals they will end up enduring large losses for the year. This issue is often with technology companies such as Microsoft and Google.
 
-## Update the docs menu
+Depreciation: Assets can often be depreciated over the years in a way to cover true expenses. Overall, one must include the depreciation expenses when calculating earnings. 
 
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+Interest Expenses: This cost is often proportional to that of debt. The higher the debt, the higher the cost on the income statement. It is often beneficial to compare interest expenses as a ratio with operating expenses. 
+
+Gain or Losses: Gain or losses on the sale of assets should be removed from consideration if the expense looks unusual.
+
+Income Before Taxes: This figure is often used to compare earnings due to its uniformity. Adding taxes can make it difficult for companies to be compared.
+

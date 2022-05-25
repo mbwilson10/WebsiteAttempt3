@@ -77,9 +77,9 @@ user_groups:
 - Visitors
 ---
 
-I am currently entering the Insurance industry as an Entry Level Actuary. In an academic setting I have a Masters in finance with a minor Actuarial Sciences. I have currently completed FM, IFM and P.
+I am currently entering the Insurance industry as an entry level Actuary. I have a Masters in Finance with a minor Actuarial Sciences. I have currently completed actuarial exams FM, IFM and P.
 
 ![reviews](../../img/OIP.jpg)
 
 
-When I am not working in the office, I am often walking my dog, brewing beer, or drinking massive amounts of coffee. 
+When I am not working in the office, I can be found walking my dog, brewing beer, or drinking massive amounts of coffee. 

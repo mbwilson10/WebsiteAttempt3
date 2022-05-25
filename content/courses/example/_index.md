@@ -6,10 +6,8 @@ weight: 1
 
 # Page metadata.
 title: Security Analysis
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: False  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -24,7 +22,4 @@ menu:
 The "Bible of Value Investing" written by Benjaman Graham:
 
 ## Introduction
-
-
-<img src="https://hcti.io/v1/image/0c47d5de-dd2d-4d21-858e-1b9850a62aab" alt="" width="100" height="100"/>
 

@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Alabama"
   date_start = "2021-06-01"
   date_end = "2022-01-21"
-  description = """-Worked in the back office of a bank, managing short term risks. Much of my worked dealt with daily operations and managing risk. """
+  description = """-Worked in the back office of a bank, managing short term risks. Much of my work dealt with daily operations and managing risk. """
 
 [[experience]]
   title = "ProAssurance"
@@ -35,9 +35,9 @@ date_format = "Jan 2006"
   date_end = "2019-12-15"
   description = """
   
-  -Recieved a strong introduction to the Actuarial field.
+  -Recieved a strong introduction to the actuarial field.
   
-  -Performed a Severity analysis on a variety of states, and then was given the opportunity to perform a ratefiling."""
+  -Performed severity analyses on numerous states and also conducted a rate filing."""
 
 [[experience]]
   title = "Inventory Intern"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   location = "Alabama"
   date_start = "2017-05-01"
   date_end = "2017-08-01"
-  description = """-Took inventory of essential inventory and then used a system known as costpoint to pinpoint average costs"""
+  description = """-Took inventory of essential inventory and then utilized Costpoint to pinpoint average costs"""
   
 +++

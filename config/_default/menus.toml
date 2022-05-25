@@ -9,9 +9,9 @@
   weight = 10
 
 [[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+  name = "Posts (WIP)"
+  url = "#posts"
+  weight = 20
 
 #[[main]]
 #  name = "Projects"
@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  name = "Synopsis"
+  name = "Synopsis (WIP)"
   url = "courses/"
   weight = 50
 
